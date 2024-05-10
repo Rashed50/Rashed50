@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rashedul Hoque</h1>
-<h3 align="center">Backend & Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Backend & Frontend Developer </h1>
+<h3 align="center">Md Rashedul Hoque</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashed50&label=Profile%20views&color=0e75b6&style=flat" alt="rashed50" /> </p>
 
