@@ -14,8 +14,8 @@
 - 💬 Ask me about **laravel,Python,Swift**
 
 - 📫 How to reach me **rashe084050@gmail.com**
-
-- 📄 Know about my experiences [3iengineers.com](3iengineers.com)
+ <!--
+- 📄 Know about my experiences [3iengineers.com](3iengineers.com)  -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
