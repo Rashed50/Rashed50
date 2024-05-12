@@ -8,8 +8,10 @@
 - 🔭 I’m currently working on [Payroll Software](https://abccpayroll.com/)
 
 - 🌱 I’m currently learning **Python,DataScience,Machine Learning**
-
+- 
+ <!--
 - 👨‍💻 All of my projects are available at [3iengineers.com](3iengineers.com)
+-->
 
 - 💬 Ask me about **laravel,Python,Swift**
 
