@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Backend & Frontend Developer </h1>
+<h1 align="center">Hi I'm Full Stack Web Developer </h1>
 <h3 align="center">Md Rashedul Hoque</h3>
+<p> 
+ Research and Software Development professional specializing in software Architecture design and development in Web Applications both backend and frontend, Hand-on development experience with SDLC, Agile and Scrum, seeking opportunities to contribute to organizational success and further professional growth.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashed50&label=Profile%20views&color=0e75b6&style=flat" alt="rashed50" /> </p>
  <!--
