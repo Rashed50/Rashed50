@@ -2,8 +2,9 @@
 <h3 align="center">Md Rashedul Hoque</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashed50&label=Profile%20views&color=0e75b6&style=flat" alt="rashed50" /> </p>
-
+ <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashed50" alt="rashed50" /></a> </p>
+ -->
 
 - 🔭 I’m currently working on [Payroll Software](https://abccpayroll.com/), VR Sensor with MQTT Broker API, Data Processor and Front-end Project
 
