@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashed50" alt="rashed50" /></a> </p>
 
-- 🔭 I’m currently working on [Payroll Software](https://abccpayroll.com/)
+- 🔭 I’m currently working on [Payroll Software](https://abccpayroll.com/), VR Sensor with MQTT Broker API, Data Processor and Front-end Project
 
 - 🌱 I’m currently learning **Python,DataScience,Machine Learning**
 - 
  <!--
-- 👨‍💻 All of my projects are available at [3iengineers.com](3iengineers.com)
+- 👨‍💻 All of my projects are available at [[3iengineers.com](3iengineers.com)](https://iamrashed.3iengineers.com/)
 -->
 
-- 💬 Ask me about **laravel,Python,Swift**
+- 💬 Ask me about **Python, Django, FastAPI, laravel,Swift**
 
 - 📫 How to reach me **rashe084050@gmail.com**
  <!--
