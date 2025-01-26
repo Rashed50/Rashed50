@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Python,DataScience,Machine Learning**
 - 
  <!--
-- 👨‍💻 All of my projects are available at [[3iengineers.com](3iengineers.com)](https://iamrashed.3iengineers.com/)
+- 👨‍💻 All of my projects are available at [[3iengineers.com](https://iamrashed.com)] 
 -->
 
 - 💬 Ask me about **Python, Django, FastAPI, laravel,Swift**
