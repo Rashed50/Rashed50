@@ -8,10 +8,8 @@
 - 🔭 I’m currently working on [Payroll Software](https://abccpayroll.com/), VR Sensor with MQTT Broker API, Data Processor and Front-end Project
 
 - 🌱 I’m currently learning **Python,DataScience,Machine Learning**
-- 
-
+  
 - 👨‍💻 All of my projects are available at [https://3iengineers.com/](https://3iengineers.com/)
-
 
 - 💬 Ask me about **Python, Django, FastAPI, laravel,Swift**
 
